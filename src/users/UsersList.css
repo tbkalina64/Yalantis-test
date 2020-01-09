@@ -1,0 +1,28 @@
+.list-user, .list-month{
+    list-style: none;
+}
+.list-user li a{
+    text-decoration: none;
+    color: #000;
+}
+.list-user li {
+    margin: 15px;
+    padding: 5px;
+    border: 1px solid;
+    width: fit-content;
+}
+
+.list-month{
+    width: 500px;
+    height: auto;
+}
+ .name-month{
+     width: 80px;
+     text-align: center;
+    float: left;
+    display: inline-block;
+    margin: 10px;
+    border: 1px dashed;
+    padding: 5px;
+
+}
